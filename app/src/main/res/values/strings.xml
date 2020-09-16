@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature translation</string>
+    <string name="inp">Input Temperature</string>
+    <string name="out">output</string>
+    <string name="h">Hello</string>
+    <string name="btn">C to F</string>
+</resources>
